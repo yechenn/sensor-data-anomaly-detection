@@ -1,2 +1,1 @@
-# sensor-data-anomaly-detection
 
