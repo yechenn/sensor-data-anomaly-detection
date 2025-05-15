@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  8 20:25:54 2022
 
-@author: YT
-"""
 
 
 
